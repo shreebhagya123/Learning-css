@@ -7,3 +7,21 @@ h4 {
 h2 {
     color:green;
 }
+
+#hero {
+    background-color: #22eeee ;
+    padding: 24px;
+}
+
+.box {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    background-color: transparent;
+}
+
+.second {
+    background-color: red;
+}
+

@@ -47,3 +47,5 @@ tagName {
 }
 
 ```
+
+If all three selectors target the same element, the ID selector wins, followed by Class, and then Tag.
