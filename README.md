@@ -16,3 +16,34 @@ External low priority
 2. id selector (#)
 3. class selector (.)
 4. tag selector
+
+### id selector
+
+an id selectors in css is used to select specific html element by its unique id attribute
+
+```
+#elementID {
+    Property: value;
+}
+```
+
+### class selector
+
+class selector in css is used to select and style one or multiple element that share the same class attribute.
+
+```
+.className {
+   property: value;
+}
+```
+
+### Tag selector
+
+In css tag selectors are used to style html elements directly by their tag name
+
+```
+tagName {
+   property: value;
+}
+
+```
